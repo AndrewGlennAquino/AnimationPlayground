@@ -1,0 +1,68 @@
+Wisc ID: aoaquino
+GitHub ID: FilipinoBadger
+Points = 59
+Grade = 3 out of 5
+
+[X] correct P2 Canvas Assignment submission [none]: 
+[X] clear explanations in p2-workbook.txt [none]: 
+[ ] correct P2G Canvas Assignment submission on time [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]: 
+[X] highlight list looks OK [final-grtown]: 
+[X] visually distinct from example [final-grtown]: 
+[X] theme makes sense (need explanation) [final-grtown]: The theme I was going for is a city in the night time. I did not add any ambiance lighting and instead opted for directional lighting from the moonlight.js class and from the stoplights that line the streets.
+[X] cool theme bonus (need explanation) [final-grtown]: I wanted to create a large city within the world, and make it feel as such. The buildings, when compared to the scale of the street and the street lights, are massive and embody the grandeur of a city. Also, the only lighting the city has is from the moonlight, which is a feint directional light, and street lights that line the streets.
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: Buildings in the city are created using verteces and uvs from 4 textures, randomized height and texture
+[X] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: Street lights emit lights from the light bulbs that line the streets
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: Buildings are randomized by height and texture
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: Streetlights line the streets light the walkways, giving more into the night time ambiance.
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: Trees are position in a pattern in conjunction with the street lights, which gives order to the world and is similar to how a city would plant trees.
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: The roads are not just plain roads: they are lined with trees and street lights. Cars on the road as well.
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: 5 cars going in 2 different directions, line the streets as cars would
+[X] has building, natural, vehicle (need explanation) [final-grtown]: City has randomized buildings, trees that line the street, and cars on the streets.
+[ ] loaded model (need explanation) [final-grtown]: 
+[ ] shader: identifiable and not trivial (need explanation) [final-grtown]: 
+[ ] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: 
+[ ] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: 
+[ ] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: 
+[ ] at least one object is rideable / followable [final-grtown]: 
+[ ] behavior that is not simple (need explanation) [final-grtown]: 
+[ ] articulated figure (need explanation) [final-grtown]: 
+[ ] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 1: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 2: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 3: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 4: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 5: points above and beyond (need explanation) [final-grtown]: 
+
+
+If you have loaded any geometry from OBJ files, use the space below to credit your source for each file. Be sure to include a confirmation that you are permitted to use this asset (e.g., it is released under a Creative Commons license).
+
+skyscraper0 texture downloaded from: https://www.sketchuptextureclub.com/textures/architecture/buildings/skycrapers/glass-building-skyscraper-texture-01032
+
+skyscraper1 texture downloaded from: https://www.sketchuptextureclub.com/textures/architecture/buildings/skycrapers/glass-building-skyscraper-texture-seamless-00975
+
+skyscraper2 texture downloaded from: https://www.sketchuptextureclub.com/textures/architecture/buildings/skycrapers/building-skyscraper-texture-seamless-00987
+
+skyscraper3 texture downloaded from: https://www.sketchuptextureclub.com/textures/architecture/buildings/skycrapers/building-skyscraper-texture-seamless-00974
+
+skybox texture downloaded from: https://unsplash.com/photos/aerial-photography-of-cityscape-oc6fccnUVnA
+
+You can follow this format, or something similar:
+
+- an-example-file.obj
+  - source: https://graphics.cs.wisc.edu/Courses/559-sp2021/
+  - author: username123
+ - license: CC BY 2.0
+
+
