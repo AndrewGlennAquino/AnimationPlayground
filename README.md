@@ -9,7 +9,7 @@ The html files may not work as "files" without a local server.
 Information about the class is available on the course web:
 https://pages.graphics.cs.wisc.edu/559-sp24/
 
-The `for_students` sub-directory contains files for the students to read and
+The `for_students` and `student_files` sub-directories contains files for the students to create, read, and
 modify. 
 
 The `libs` sub-directory contains libraries used by the workbook. These
